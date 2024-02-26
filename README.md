@@ -1,4 +1,4 @@
-# masternode
+# Masternode
 Tutorial - Install masternode on Ubuntu Server 22.04
 Install a masternode for your coin on Ubuntu Server 22.04 with the following tutorial.
 
